@@ -19,3 +19,4 @@ HIGHLIGHTS AND KEY INSIGHTS
   4) Performance and Engagement: The dashboard provides a breakdown of employees by job satisfaction                                     and job role, helping to identify areas for improvement in employee                                     engagement and performance management.
 
 SCREENSHOT:-
+https://github.com/Abir-2005/CodeAlpha_HR_Analytics/blob/main/Snapshot%20of%20HR_Analytics.png
