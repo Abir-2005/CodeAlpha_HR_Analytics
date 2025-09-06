@@ -1,5 +1,5 @@
 HR ANALYTICS DASHBOARD
----------------------------
+
 PURPOSE :- This project features a comprehensive dashboard for analyzing key Human Resources metrics. The dashboard helps to visualize and understand workforce data, including headcount, attrition rates, and demographic breakdowns, providing valuable insights for strategic decision-making.
 
 TECH STACK:- 
