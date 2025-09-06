@@ -18,3 +18,4 @@ HIGHLIGHTS AND KEY INSIGHTS
 
   4) Performance and Engagement: The dashboard provides a breakdown of employees by job satisfaction                                     and job role, helping to identify areas for improvement in employee                                     engagement and performance management.
 
+SCREENSHOT:-
