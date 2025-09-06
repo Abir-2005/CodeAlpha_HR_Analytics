@@ -3,8 +3,8 @@ HR ANALYTICS DASHBOARD
 PURPOSE :- This project features a comprehensive dashboard for analyzing key Human Resources metrics. The dashboard helps to visualize and understand workforce data, including headcount, attrition rates, and demographic breakdowns, providing valuable insights for strategic decision-making.
 
 TECH STACK:- 
-    a) Tools: Power BI
-    b) Libraries: N/A
+    1) Tools: Power BI
+    2) Libraries: N/A
 
 DATA SOURCE:- 
 The data used for this analysis is sourced from a sample HR dataset, which has been imported into Power BI for visualization. The dataset includes information related to employee demographics, performance, and employment status.
